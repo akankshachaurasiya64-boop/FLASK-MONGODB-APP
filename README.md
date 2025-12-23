@@ -1,0 +1,1 @@
+This project successfully demonstrates deploying a Flask application with MongoDB on Kubernetes using best practices such as containerization, secrets management, persistent storage, autoscaling, DNS-based service discovery, and resource control. The setup is scalable, secure, and suitable for real-world cloud-native applications.
